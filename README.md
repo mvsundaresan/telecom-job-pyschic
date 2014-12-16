@@ -5,7 +5,7 @@ This iPython notebook documents our class project to explore, analyze, model, an
 
 ## Documentation
 
-Please see our [website](http://dtraviglia.github.io/telecom-job-pyschic/) for more information.  
+Please see our [website](http://dtraviglia.github.io/telecom-job-psychic/) for more information.  
 
 ## Installation
 
