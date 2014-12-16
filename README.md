@@ -6,9 +6,13 @@ This iPython notebook documents our Harvard CSCI E-109 2014 data science class p
 ## Authors
 
 •Dan Traviglia, CSCI E-109
+
 •Kaiss Alahmady, CSCI E-109
+
 •Prabhu Akula, CSCI E-109
+
 •Sundaresan Manoharan, CSCI E-109
+
 
 ## Documentation
 
